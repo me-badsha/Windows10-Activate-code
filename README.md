@@ -1,5 +1,8 @@
 # Windows10-Activate-code
 
+The text is here : [File Here](https://github.com/me-badsha/Windows10-Activate-code/blob/main/activate.cmd)
+
+
 Copy the avobe link text and save it on your PC txt document.
 
 ![image](https://user-images.githubusercontent.com/54232503/197377504-690d6807-2b01-47d6-9391-648a6d480f74.png)
